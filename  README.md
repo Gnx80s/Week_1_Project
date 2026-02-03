@@ -4,7 +4,7 @@ A simple Python‑based network scanner that checks a target (IP or hostname) fo
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Scans target ports (1‑1024) using **python‑nmap**
 2. Detects running services and versions
@@ -17,4 +17,4 @@ A simple Python‑based network scanner that checks a target (IP or hostname) fo
 
 - Python 3
 - Nmap installed on system
-- Python libraries:
+- Python libraries
