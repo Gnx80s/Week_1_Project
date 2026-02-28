@@ -18,3 +18,19 @@ A simple Python‑based network scanner that checks a target (IP or hostname) fo
 - Python 3
 - Nmap installed on system
 - Python libraries
+  
+---
+## File Structure
+<pre>
+  
+Week_1_Project/
+│
+├── scanner.py/
+│            
+├── requirement.txt/
+│         
+├── scan_report.json/
+│      
+└── README.md                       
+ 
+</pre>
